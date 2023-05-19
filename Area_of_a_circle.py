@@ -1,3 +1,3 @@
-a=int(input())
-x=3.14*a*a
-print("%.2f"%x)
+r=int(input())
+area=3.14*r*r
+print("%0.2f"%area)
